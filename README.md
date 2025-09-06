@@ -5,7 +5,7 @@
 3.I know - English,Tamil,German😜.<br>
 
 ### Connect me in:
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4ab56f0f-92f0-412a-b654-bdbdfe82b4db" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37e2323c-dbf5-43f6-8b4a-7495a300d6de" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d947a3ce-894f-4a54-9adc-b3b530ce5ae5" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ba07515a-0ed7-4792-8f38-5bf313bb37be" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4ab56f0f-92f0-412a-b654-bdbdfe82b4db" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37e2323c-dbf5-43f6-8b4a-7495a300d6de" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d947a3ce-894f-4a54-9adc-b3b530ce5ae5" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba07515a-0ed7-4792-8f38-5bf313bb37be" />
 
 
 
