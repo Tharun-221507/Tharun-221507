@@ -1,6 +1,6 @@
 # Hi👋 I'm **Tharun**❤️
 
-1.<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/ed30cc3f-7575-427b-a447-8760fa5d0a8b" />
+1.<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ed30cc3f-7575-427b-a447-8760fa5d0a8b" />
 AIML-Engineer.<br>
 2.I'm currenntly pursuing **Artificial Intelligence and Machine learning** @  **SIET-Coimbatore.**<br>
 3.I know - English,Tamil,German😜.<br>
