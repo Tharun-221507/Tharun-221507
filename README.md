@@ -1,5 +1,8 @@
 # Hi👋 I'm **Tharun**❤️
-#### I'm currenntly pursuing **Artificial Intelligence and Machine learning** @  **SIET-Coimbatore.**
+
+1.AIML-Engineer.
+2.I'm currenntly pursuing **Artificial Intelligence and Machine learning** @  **SIET-Coimbatore.**
+3.I know - English,Tamil,German😜.
 
 * **
 ### I code in
