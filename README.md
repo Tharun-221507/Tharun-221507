@@ -33,12 +33,8 @@ I enjoy solving real-world problems by building scalable AI systems—from data 
 
 ### 📌 Leet code stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun07-_?theme=radical&font=Miltonian%20Tattoo)
-
-
 ----
 ## 📫 Connect With Me
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/tharuns07)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:tharuns4807@gmail.com)
 ---
