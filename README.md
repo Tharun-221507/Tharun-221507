@@ -21,28 +21,26 @@ I enjoy solving real-world problems by building scalable AI systems—from data 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy  
-- **GenAI & NLP:** LLMs, LangChain, RAG, Embeddings  
-- **Backend:** FastAPI  
-- **Tools:** Git, GitHub, Docker (Basics)  
-- **Vector DB:** FAISS  
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=000000)
+![ML](https://img.shields.io/badge/-Machine_Learning-4B8BBE?style=flat&logo=scikit-learn&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/-LangChain-2B2B2B?style=flat&logo=python&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-FF6F61?style=flat&logo=python&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 
 ----
 
-### Leet code stats:
+### 📌 Leet code stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun07-_?theme=radical&font=Miltonian%20Tattoo)
 
 
 ----
 ## 📫 Connect With Me
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4ab56f0f-92f0-412a-b654-bdbdfe82b4db" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/37e2323c-dbf5-43f6-8b4a-7495a300d6de" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d947a3ce-894f-4a54-9adc-b3b530ce5ae5" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba07515a-0ed7-4792-8f38-5bf313bb37be" />
 
-
-- 💼 LinkedIn: https://linkedin.com/in/tharuns07
-- 📧 Email: tharuns4807@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/tharuns07)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:tharuns4807@gmail.com)
 ---
 
 ## ⚡ Motto
