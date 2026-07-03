@@ -11,8 +11,7 @@
 
 ---
 
-# 🌌 AI ENGINEER PORTFOLIO
-
+# 🌌 About
 <div align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
@@ -75,7 +74,7 @@
 
 </div>
 
-# 🚀 FEATURED PROJECTS
+# 🚀 PROJECTS
 
 <div align="center">
 
@@ -129,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=BUILDING+THE+FUTURE+WITH+GENERATIVE+AI;LLMs+%7C+RAG+%7C+AI+AGENTS+%7C+TRANSFORMERS;FULL+STACK+AI+ENGINEER;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=BUILDING+THE+FUTURE+WITH+GENERATIVE+AI;LLMs+%7C+RAG+%7C+AI+AGENTS+%7C+TRANSFORMERS;GENEREATIVE+AI+ENGINEER;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS" />
 
 <br><br>
 
@@ -303,7 +302,7 @@ Cloud Deployment
 
 </tr>
 </table>
-# ⚡ DIGITAL DNA
+⚡ DIGITAL DNA
 
 <div align="center">
 
